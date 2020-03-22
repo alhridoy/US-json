@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         
+         90.4125,23.8103
+        ]
+      },
+      "properties": {
+        "city":"Dhaka",
+        "affected":"27",
+        "death":"2",
+        "recovery:"5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          
+         91.1809,23.4607
+        ]
+      },
+      "properties": {
+        "city":"Dhaka",
+        "affected":"1",
+        "death":"1",
+        "recovery:"0"
+      }
+    }
+ 
+   
+  ]
+}
