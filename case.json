@@ -1,0 +1,21 @@
+[
+{
+		
+		"state": "Dhaka",
+		"area_name": "Sheridan County",
+		"bachelorsOrHigher": 28.9
+	},
+  {
+		
+		"state": "Comilla",
+		"area_name": "Sheridan County",
+		"bachelorsOrHigher": 21.9
+	},
+    {
+		
+		"state": "Rangpur",
+		"area_name": "Sheridan County",
+		"bachelorsOrHigher": 10
+	}
+
+]
