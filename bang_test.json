@@ -935,6 +935,10 @@
             "type": "Feature",
             "geometry": {
                 "type": "Polygon",
+                "properties": {
+                    "name": "Chittagong",
+                    "p": 2
+                },
                 "coordinates": [
                     [
                         [
@@ -1832,10 +1836,7 @@
                     ]
                 ]
             },
-            "properties": {
-                "name":"Chittagong",
-                "p":2
-            }
+
         },
         {
             "type": "Feature",
