@@ -5,7 +5,7 @@
             "type": "Feature",
             "properties": {
                 "name":"Dhaka",
-                "p":56
+                "p":54
             },
             "geometry": {
                 "type": "Polygon",
@@ -39,7 +39,7 @@
             "type": "Feature",
             "properties": {
                 "name":"Madaripur",
-                "p":110
+                "p":11
             },
             "geometry": {
                 "type": "Polygon",
@@ -73,7 +73,7 @@
             "type": "Feature",
             "properties": {
                 "name":"Narayanganj",
-                "p":20
+                "p":11
             },
             "geometry": {
                 "type": "Polygon",
