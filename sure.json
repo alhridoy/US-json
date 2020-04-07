@@ -2265,7 +2265,7 @@
                 "p":11
             },
             "geometry": {
-                "type": "Polygon",
+                "type": "LineString",
                 "coordinates": [
                     [
                         90.142822265625,
